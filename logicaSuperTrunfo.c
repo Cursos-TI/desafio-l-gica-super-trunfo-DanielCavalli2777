@@ -10,6 +10,14 @@ int main() {
 }
     // Definição das variáveis para armazenar as propriedades das cidades
     // Você pode utilizar o código do primeiro desafio
+    //São paulo corresponde a letra A
+    //Minas Gerais corresponde a letra B
+    //Rio Grande do sul corresponde a letra C
+    //Bahia corresponde a letra D
+    //Rio de janeiro corresponde a letra E
+    //Maranhão corresponde a letra F
+    //Piauí corresponde a letra G
+    //Amazonas corresponde a letra H
 
     
     // Cadastro das Cartas:
