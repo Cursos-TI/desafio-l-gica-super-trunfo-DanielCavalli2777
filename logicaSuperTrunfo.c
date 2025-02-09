@@ -60,8 +60,49 @@ int main() {
     //PIB: 7.31 bilhões de reais
     //Número de Pontos Turísticos: 15
 
+    //Minas Gerais Estados vai ser letra B
 
-    
+    //cada numero vai corresponder uma cidade 
+    //cidade Belo Horizonte vai ser 01
+    //cidade Uberlândia vai ser 02
+    //cidade Juiz de Fora vai ser 03
+    //cidade Montes Claros vai ser 04
+
+
+
+    //Código da Carta: B01
+    //Nome da Cidade: Belo Horizonte
+    //População: 2153600
+    //Área: 331.401  km²
+    //PIB: 56.34 bilhões de reais
+    //Número de Pontos Turísticos: 40
+
+    //Estado: B
+    //Código da Carta: B02
+    //Nome da Cidade: Uberlândia 
+    //População: 759000	
+    //Área: 4168.8  km²
+    //PIB: 22.45 bilhões de reais
+    //Número de Pontos Turísticos: 25
+
+    //Estado: B
+    //Código da Carta: B03
+    //Nome da Cidade: Juiz de Fora 
+    //População: 540756	
+    //Área: 1455.8  km²
+    //PIB: 10.12 bilhões de reais
+    //Número de Pontos Turísticos: 30
+
+    //Estado: B
+    //Código da Carta: B04
+    //Nome da Cidade: Montes Claros
+    //População: 414240	
+    //Área: 3569.1  km²
+    //PIB: 8.76 bilhões de reais
+    //Número de Pontos Turísticos: 20
+
+
+ 
     // Cadastro das Cartas:
     // Implemente a lógica para solicitar ao usuário que insira os dados das cidades
     // utilizando a função scanf para capturar as entradas.
