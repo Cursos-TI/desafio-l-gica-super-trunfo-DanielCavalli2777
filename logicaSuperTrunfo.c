@@ -6,11 +6,11 @@
 // Siga os comentários para implementar cada parte do desafio.
 
 int main() {
-    printf ("SUPERTRUNFO!/n");
+    printf ("SUPERTRUNFO!\n");
 }
     // Definição das variáveis para armazenar as propriedades das cidades
     // Você pode utilizar o código do primeiro desafio
-    
+
     //São paulo corresponde a letra A
     //Minas Gerais corresponde a letra B
     //Rio Grande do sul corresponde a letra C
