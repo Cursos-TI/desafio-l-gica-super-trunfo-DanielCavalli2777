@@ -142,6 +142,46 @@ int main() {
     //PIB: 9.45 bilhões de reais
     //Número de Pontos Turísticos: 18
 
+    //cada numero vai corresponder uma cidade 
+    //cidade Salvador vai ser 01
+    //cidade Feira de Santana vai ser 02
+    //cidade Vitória da Conquista vai ser 03
+    //cidade Camaçari vai ser 04
+
+
+    //Estado: D
+    //Código da Carta: D01
+    //Nome da Cidade: Salvador 
+    //População: 2886698	
+    //Área: 693.8  km²
+    //PIB: 83.43 bilhões de reais
+    //Número de Pontos Turísticos: 55
+
+    //Estado: D
+    //Código da Carta: D02
+    //Nome da Cidade: Feira de Santana
+    //População:627477 	
+    //Área: 1376.56  km²
+    //PIB: 17.33 bilhões de reais
+    //Número de Pontos Turísticos: 30
+
+    //Estado: D
+    //Código da Carta: D03
+    //Nome da Cidade: Vitória da Conquista
+    //População: 338480	
+    //area: 3204.2  km²
+    //PIB:10.54  bilhões de reais
+    //Número de Pontos Turísticos: 25
+
+    //Estado: D
+    //Código da Carta: D04
+    //Nome da Cidade: Camaçari
+    //População: 293723	
+    //Área: 784.658  km²
+    //PIB: 9.89 bilhões de reais
+    //Número de Pontos Turísticos: 20
+
+
 
 
 
