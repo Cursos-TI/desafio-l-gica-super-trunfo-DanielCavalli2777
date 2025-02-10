@@ -219,6 +219,136 @@ int main() {
     //PIB: 15.43 bilhões de reais
     //Número de Pontos Turísticos: 30
 
+    //Estados Maranhão vai ser letra F
+
+
+    //cada numero vai corresponder uma cidade 
+    //cidade São Luís vai ser 01
+    //cidade Imperatriz vai ser 02
+    //cidade Caxias vai ser 03
+    //cidade Timon vai ser 04
+
+
+    //Estado: F
+    //Código da Carta: F01
+    //Nome da Cidade: São Luís
+    //População: 1108975	
+    //Área: 831.7  km²
+    //PIB: 25.82 bilhões de reais
+    //Número de Pontos Turísticos: 25
+
+    //Estado: F
+    //Código da Carta: F02
+    //Nome da Cidade: Imperatriz
+    //População: 259053	
+    //Área: 1.368.988  km²
+    //PIB: 9.42 bilhões de reais
+    //Número de Pontos Turísticos: 15
+
+    //Estado: F
+    //Código da Carta: F03
+    //Nome da Cidade:Caxias 
+    //População: 165525	
+    //Área:  5182.7 km²
+    //PIB: 6.78 bilhões de reais
+    //Número de Pontos Turísticos: 20
+
+    //Estado: F
+    //Código da Carta: F04
+    //Nome da Cidade: Timon
+    //População: 170456	
+    //Área: 1763.8  km²
+    //PIB: 5.91 bilhões de reais
+    //Número de Pontos Turísticos: 18
+					
+    //Estados Piauí vai ser letra G
+
+    //cada numero vai corresponder uma cidade 
+    //cidade Teresina vai ser 01
+    //cidade Parnaíba vai ser 02
+    //cidade Picos vai ser 03
+    //cidade Piripiri vai ser 04
+
+
+    //Estado: G
+    //Código da Carta: G01
+    //Nome da Cidade: Teresina
+    //População: 864845	
+    //Área: 1391.98  km²
+    //PIB: 21.54 bilhões de reais
+    //Número de Pontos Turísticos: 30
+
+    //Estado: G
+    //Código da Carta: G02
+    //Nome da Cidade: Parnaíba
+    //População: 153322 	
+    //Área: 435.5  km²
+    //PIB: 7.65 bilhões de reais
+    //Número de Pontos Turísticos: 25
+
+    //Estado: G
+    //Código da Carta: G03
+    //Nome da Cidade: Picos
+    //População: 78377 	
+    //Área: 535.6  km²
+    //PIB: 4.32 bilhões de reais
+    //Número de Pontos Turísticos: 15
+
+    //Estado: G
+    //Código da Carta: G04
+    //Nome da Cidade: Piripiri 
+    //População: 62130	
+    //Área: 498.158  km²
+    //PIB: 3.14 bilhões de reais
+    //Número de Pontos Turísticos: 10
+
+			
+			
+
+    //Estados Amazonas vai ser letra H
+
+
+    //cada numero vai corresponder uma cidade 
+    //cidade Manaus vai ser 01
+    //cidade Parintins vai ser 02
+    //cidade Itacoatiara vai ser 03
+    //cidade Manacapuru vai ser 04
+
+
+
+    //Estado: H
+    //Código da Carta: H01
+    //Nome da Cidade: Manaus
+    //População:2193741 	
+    //Área: 11.401.058  km²
+    //PIB: 66.58 bilhões de reais
+    //Número de Pontos Turísticos: 50
+
+    //Estado: H
+    //Código da Carta: H02
+    //Nome da Cidade: Parintins
+    //População: 113168	
+    //Área: 4358.1  km²
+    //PIB: 5.78 bilhões de reais
+    //Número de Pontos Turísticos: 20
+
+    //Estado: H
+    //Código da Carta: H02
+    //Nome da Cidade: Itacoatiara
+    //População: 101337 	
+    //Área: 8608.2  km²
+    //PIB: 3.21 bilhões de reais
+    //Número de Pontos Turísticos: 18
+
+    //Estado: H
+    //Código da Carta: H02
+    //Nome da Cidade: Manacapuru
+    //População: 96828	
+    //Área: 7368.32  km²
+    //PIB: 2.65 bilhões de reais
+    //Número de Pontos Turísticos: 15
+
+
 
 
 
