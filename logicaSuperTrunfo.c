@@ -180,6 +180,7 @@ int main() {
     //Área: 784.658  km²
     //PIB: 9.89 bilhões de reais
     //Número de Pontos Turísticos: 20
+    
 //cada numero vai corresponder uma cidade 
 //cidade Rio de Janeiro vai ser 01
 //cidade Niterói vai ser 02
