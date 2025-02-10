@@ -181,43 +181,43 @@ int main() {
     //PIB: 9.89 bilhões de reais
     //Número de Pontos Turísticos: 20
     
-//cada numero vai corresponder uma cidade 
-//cidade Rio de Janeiro vai ser 01
-//cidade Niterói vai ser 02
-//cidade Petrópolis vai ser 03
-//cidade Campos dos Goytacazes vai ser 04
+    //cada numero vai corresponder uma cidade 
+    //cidade Rio de Janeiro vai ser 01
+    //cidade Niterói vai ser 02
+    //cidade Petrópolis vai ser 03
+    //cidade Campos dos Goytacazes vai ser 04
 
-//Estado: E
-//Código da Carta: E01
-//Nome da Cidade: Rio de janeiro
-//População: 6747815 	
-//Área: 1.200.278  km²
-//PIB: 364.17 bilhões de reais
-//Número de Pontos Turísticos: 70
+    //Estado: E
+    //Código da Carta: E01
+    //Nome da Cidade: Rio de janeiro
+    //População: 6747815 	
+    //Área: 1.200.278  km²
+    //PIB: 364.17 bilhões de reais
+    //Número de Pontos Turísticos: 70
 
-//Estado: E
-//Código da Carta: E02
-//Nome da Cidade: Niterói
-//População: 513584	
-//Área: 133.9  km²
-//PIB: 21.04 bilhões de reais
-//Número de Pontos Turísticos: 35
+    //Estado: E
+    //Código da Carta: E02
+    //Nome da Cidade: Niterói
+    //População: 513584	
+    //Área: 133.9  km²
+    //PIB: 21.04 bilhões de reais
+    //Número de Pontos Turísticos: 35
 
-//Estado: E
-//Código da Carta: E03
-//Nome da Cidade: Petrópolis
-//População: 305134	
-//Área: 778.4  km²
-//PIB: 12.78 bilhões de reais
-//Número de Pontos Turísticos: 20
+    //Estado: E
+    //Código da Carta: E03
+    //Nome da Cidade: Petrópolis
+    //População: 305134	
+    //Área: 778.4  km²
+    //PIB: 12.78 bilhões de reais
+    //Número de Pontos Turísticos: 20
 
-//Estado: E
-//Código da Carta: E04
-//Nome da Cidade: Campos dos Goytacazes 
-//População: 503424	
-//Área: 4031.0  km²
-//PIB: 15.43 bilhões de reais
-//Número de Pontos Turísticos: 30
+    //Estado: E
+    //Código da Carta: E04
+    //Nome da Cidade: Campos dos Goytacazes 
+    //População: 503424	
+    //Área: 4031.0  km²
+    //PIB: 15.43 bilhões de reais
+    //Número de Pontos Turísticos: 30
 
 
 
