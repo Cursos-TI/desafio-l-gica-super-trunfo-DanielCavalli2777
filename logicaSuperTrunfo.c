@@ -101,6 +101,49 @@ int main() {
     //PIB: 8.76 bilhões de reais
     //Número de Pontos Turísticos: 20
 
+    //Estados Rio Grande do sul vai ser letra C
+
+    //cada numero vai corresponder uma cidade 
+    //cidade Porto Alegre vai ser 01
+    //cidade Caxias do Sul vai ser 02
+    //cidade Pelotas vai ser 03
+    //cidade Santa Maria vai ser 04
+
+    //Estado: C
+    //Código da Carta: C01
+    //Nome da Cidade: Porto Alegre 
+    //População: 1484952	
+    //Área: 496.684  km²
+    //PIB: 72.21 bilhões de reais
+    //Número de Pontos Turísticos:45
+
+
+    //Estado: C
+    //Código da Carta: C02
+    //Nome da Cidade: Caxias do Sul
+    //População: 517451	
+    //Área: 1645.6 km²
+    //PIB: 27.85 bilhões de reais
+    //Número de Pontos Turísticos: 25
+
+    //Estado: C
+    //Código da Carta: C03
+    //Nome da Cidade: Pelotas
+    //População: 343132	
+    //Área: 1609.7  km²
+    //PIB: 12.56 bilhões de reais
+    //Número de Pontos Turístico: 20
+
+    //Estado: C
+    //Código da Carta: C04
+    //Nome da Cidade: Santa Maria
+    //População: 282223	
+    //Área: 1811.4 km²
+    //PIB: 9.45 bilhões de reais
+    //Número de Pontos Turísticos: 18
+
+
+
 
  
     // Cadastro das Cartas:
