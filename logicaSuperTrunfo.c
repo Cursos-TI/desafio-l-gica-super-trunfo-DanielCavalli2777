@@ -1,6 +1,8 @@
 #include <stdio.h>
 int main() {
     printf ("SUPERTRUNFO!\n");
+    git commit -m "Primeiro commit do programa Super Trunfo"
+    
     }
 
 // Desafio Super Trunfo - Países
