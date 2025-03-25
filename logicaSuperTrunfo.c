@@ -9,6 +9,12 @@ int main() {
 // Tema 2 - Comparação das Cartas
 // Este código inicial serve como base para o desenvolvimento do sistema de comparação de cartas de cidades. 
 // Siga os comentários para implementar cada parte do desafio.
+// Definindo a estrutura Cidade
+    struct Cidade {
+    char nome[50];
+    char estado[30];
+    int populacao;
+    float area;
 
 
     // Definição das variáveis para armazenar as propriedades das cidades
@@ -357,7 +363,7 @@ int main() {
 
 
  
-    // Cadastro das Cartas:
+ 
     // Implemente a lógica para solicitar ao usuário que insira os dados das cidades
     // utilizando a função scanf para capturar as entradas.
     // utilize o código do primeiro desafio
