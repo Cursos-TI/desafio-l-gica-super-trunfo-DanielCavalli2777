@@ -16,6 +16,22 @@ int main() {
     int populacao;
     float area;
 };
+// Declarando uma variável do tipo struct Cidade
+struct Cidade cidade1;
+
+// Preenchendo a estrutura com informações
+printf("Digite o nome da cidade: ");
+scanf("%s", cidade1.nome);
+
+printf("Digite o nome do estado: ");
+scanf("%s", cidade1.estado);
+
+printf("Digite a populacao: ");
+scanf("%d", &cidade1.populacao);
+
+printf("Digite a area (em km²): ");
+scanf("%f", &cidade1.area);
+((9(
 
 
     // Definição das variáveis para armazenar as propriedades das cidades
