@@ -15,6 +15,7 @@ int main() {
     char estado[30];
     int populacao;
     float area;
+};
 
 
     // Definição das variáveis para armazenar as propriedades das cidades
