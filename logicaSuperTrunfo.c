@@ -32,6 +32,15 @@ scanf("%d", &cidade1.populacao);
 printf("Digite a area (em km²): ");
 scanf("%f", &cidade1.area);
 ((9(
+    // Exibindo as informações armazenadas
+    printf("\nInformações da Cidade:\n");
+    printf("Nome: %s\n", cidade1.nome);
+    printf("Estado: %s\n", cidade1.estado);
+    printf("Populacao: %d\n", cidade1.populacao);
+    printf("Area: %.2f km²\n", cidade1.area);
+
+    return 0;
+}
 
 
     // Definição das variáveis para armazenar as propriedades das cidades
